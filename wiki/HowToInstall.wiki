@@ -12,7 +12,7 @@ Almost nothing to configure. There is one property file:
 {{{
 .JarExplorer.properties
 }}}
-This file contains a propertyL 
+This file contains a property: 
 {{{
 zip.extensions=jar,zip,war,ear,rar
 }}}
