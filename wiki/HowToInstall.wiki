@@ -6,5 +6,14 @@ Installation  is simple. You need to have Java 1.4 or higher. Download the file:
 java -jar jarexplorer-0.6-BETA.jar
 }}}
 
-Have fun...
+=Configuration=
 
+Almost nothing to configure. There is one property file:
+{{{
+.JarExplorer.properties
+}}}
+This file contains a propertyL 
+{{{
+zip.extensions=jar,zip,war,ear,rar
+}}}
+You can add other file extensions here, as long as the files themselves are in zip format. 
