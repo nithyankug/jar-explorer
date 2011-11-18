@@ -3,7 +3,7 @@
 Installation  is simple. You need to have Java 1.4 or higher. Download the file: [http://jar-explorer.googlecode.com/files/jarexplorer-0.6-BETA.jar] and  execute the following command:
 
 {{{
-java -jar jarexplorer-0.6-BETA.jar
+java -jar jarexplorer-0.7-BETA.jar
 }}}
 
 =Configuration=
